@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-chakra-Bidcards/static/css/main.0fb81380.css",
+    "main.js": "/react-chakra-Bidcards/static/js/main.3d0da070.js",
+    "static/media/nft1.jpg": "/react-chakra-Bidcards/static/media/nft1.7c23b846b3f44ca20b47.jpg",
+    "static/media/technology.png": "/react-chakra-Bidcards/static/media/technology.b291fe5c6fd9f6d2b2b6.png",
+    "static/media/astronaut.jpg": "/react-chakra-Bidcards/static/media/astronaut.735f68056cec824a3a1f.jpg",
+    "static/media/nft2.jpg": "/react-chakra-Bidcards/static/media/nft2.f428d519c8327061c4fe.jpg",
+    "static/media/img1.jpg": "/react-chakra-Bidcards/static/media/img1.ee8f7610b7798cd195ea.jpg",
+    "static/media/monkey.png": "/react-chakra-Bidcards/static/media/monkey.574ca8764d4d506ab550.png",
+    "static/media/galaxy.png": "/react-chakra-Bidcards/static/media/galaxy.4b14387390297905d9a3.png",
+    "index.html": "/react-chakra-Bidcards/index.html",
+    "main.0fb81380.css.map": "/react-chakra-Bidcards/static/css/main.0fb81380.css.map",
+    "main.3d0da070.js.map": "/react-chakra-Bidcards/static/js/main.3d0da070.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fb81380.css",
+    "static/js/main.3d0da070.js"
+  ]
+}
